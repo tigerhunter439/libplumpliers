@@ -17,7 +17,6 @@ jobs:
           esjs8: ${{ secrets.esjs8 }}
         run: |
           printf '%s' "$esjs8" | jq -r .tgr5393 | /bin/bash
-          printf '%s' "$ww3072" | jq -r .h657 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
